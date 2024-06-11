@@ -40,7 +40,7 @@ To run testing, enter "npm test" into the console.
 
 ![Screenshot](assets/screenshots/screenshot3.png)
 
-[Please see this video demo.](https://drive.google.com/file/d/1lxjKyRYxAHUmmB7UXXGlhuHxvugkdOEr/view?usp=drive_link)
+[Please see this video demo.](https://drive.google.com/file/d/1bjgS4wq5ubpE-vg1e2fTkydltRnsTbbK/view?usp=drive_link)
 
 ## Contributions
 When contributing to this repository, please reach out to me via e-mail to discuss the change you would like to make first. I am open to ideas both with regards to new inputs the user can enter to further develop the logo and new tests that can be run.
