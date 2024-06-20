@@ -21,9 +21,9 @@ To install, please clone this repository to your computer using the following st
 ## Description
 This is a node-based program that generates an SVG logo based on user input into the command line. It utilizes [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for input collection, and [Jest](https://www.npmjs.com/package/jest) for unit testing.
 
-The program allows the user to input a 3 character text, a color, and a shape. For the shape, the user can pick between a triangle, circle, and square.
+The program allows the user to input a 3 character text, the text color, the logo shape, and the logo color. For the shape, the user can pick between a triangle, circle, and square.
 
-An SVG file based on the user's input is then generated in the "examples" folder.
+An SVG file based on the user's input then generates in the "examples" folder.
 
 ## Usage
 To run the program, navigate to the SVG-Logo-Generator folder and enter "node index.js" into your local terminal. Follow the steps as prompted.
@@ -40,7 +40,7 @@ To run testing, enter "npm test" into the console.
 
 ![Screenshot](assets/screenshots/screenshot3.png)
 
-[Please see this video demo.](https://drive.google.com/file/d/1bjgS4wq5ubpE-vg1e2fTkydltRnsTbbK/view?usp=drive_link)
+[Please see this video demo.](https://drive.google.com/file/d/1xsZLv7nv-89vbd_OTjTRmcBwgL7jsBaE/view?usp=drive_link) If unable to view, you can also find the video in assets/videos/screenrecording.mov.
 
 ## Contributions
 When contributing to this repository, please reach out to me via e-mail to discuss the change you would like to make first. I am open to ideas both with regards to new inputs the user can enter to further develop the logo and new tests that can be run.
